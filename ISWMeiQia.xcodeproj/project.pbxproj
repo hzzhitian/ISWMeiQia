@@ -147,6 +147,7 @@
 		817D60B920FC4283001CFE8C /* MQMessageFormImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 817D603520FC4283001CFE8C /* MQMessageFormImageView.m */; };
 		817D60BC20FC42C0001CFE8C /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 817D60BB20FC42C0001CFE8C /* libsqlite3.tbd */; };
 		817D60BE20FC42CF001CFE8C /* libicucore.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 817D60BD20FC42CF001CFE8C /* libicucore.tbd */; };
+		817D60C020FC456C001CFE8C /* ISWMeiQia.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 817D60BF20FC456C001CFE8C /* ISWMeiQia.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -429,6 +430,7 @@
 		817D603520FC4283001CFE8C /* MQMessageFormImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MQMessageFormImageView.m; sourceTree = "<group>"; };
 		817D60BB20FC42C0001CFE8C /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		817D60BD20FC42CF001CFE8C /* libicucore.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libicucore.tbd; path = usr/lib/libicucore.tbd; sourceTree = SDKROOT; };
+		817D60BF20FC456C001CFE8C /* ISWMeiQia.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ISWMeiQia.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -450,6 +452,7 @@
 		817D5ED420FC4240001CFE8C = {
 			isa = PBXGroup;
 			children = (
+				817D60BF20FC456C001CFE8C /* ISWMeiQia.podspec */,
 				817D5EDF20FC4240001CFE8C /* ISWMeiQia */,
 				817D5EDE20FC4240001CFE8C /* Products */,
 				817D60BA20FC42C0001CFE8C /* Frameworks */,
@@ -1237,6 +1240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				817D60C020FC456C001CFE8C /* ISWMeiQia.podspec in Resources */,
 				817D5EED20FC4241001CFE8C /* LaunchScreen.storyboard in Resources */,
 				817D5EEA20FC4241001CFE8C /* Assets.xcassets in Resources */,
 				817D603C20FC4283001CFE8C /* MQChatViewAsset.bundle.zip in Resources */,
